@@ -3,3 +3,6 @@
 Shell Scripting Topics
 
 what is the Shell scripting
+
+Shell Scripting is list commands to execute the
+process for automation.
