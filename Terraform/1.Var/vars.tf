@@ -6,7 +6,7 @@ variable "sample_string" {
 ## To print in shell script we use echo , following is the syntax in shell
 ## echo $sample_string
 output "sample_string" {
-  value = "var.sample_string"
+  value = var.sample_string
 }
 
 ## in above case we are printing just varaible, if varaible is combination of some strings then following
